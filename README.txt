@@ -1,3 +1,5 @@
+# Implementation of Breiman's RandomForest Experiments in R
+
 This project is part of the Statistics For Data Science course for the academic year 2023/2024 (Master's Degree in Data Science and Business Informatics, University of Pisa), developed in collaboration with Fabio Melasi.
 
 The project involves the implementation in R of the experiments discussed in sections 4, 5, and 6 of Breiman's famous paper "Random Forests".
